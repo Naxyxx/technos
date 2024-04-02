@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site d'Informations Confidentielles</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Informations Confidentielles</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#dion">Dion</a></li>
+            <li><a href="#yate">Yaté</a></li>
+            <li><a href="#assika">Assika</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="dion">
+            <h2>Dion</h2>
+            <p>Informations confidentielles sur Dion :</p>
+            <ul>
+                <li>Dion sort avec Mapa.</li>
+            </ul>
+        </section>
+
+        <section id="yate">
+            <h2>Yaté</h2>
+            <p>Informations confidentielles sur Yaté :</p>
+            <ul>
+                <li>Yaté a une petite amie thaïlandaise.</li>
+            </ul>
+        </section>
+
+        <section id="assika">
+            <h2>Assika</h2>
+            <p>Informations confidentielles sur Assika :</p>
+            <ul>
+                <li>Assika vole les tenues des gens.</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>Ce site contient des informations confidentielles et est à usage restreint.</p>
+    </footer>
+</body>
+</html>
